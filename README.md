@@ -49,6 +49,6 @@
                                 (https://github.com.dudwn7504/test-code)
     
     18. 원격저장소에 업로드
-        git oush -u origin master
+        git push -u origin master
 
     19. 해당하는 아이디나 이메일, 패스워드를 물어볼 경우 입력하면 업로드 성공!
